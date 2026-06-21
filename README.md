@@ -1,5 +1,19 @@
 # Medium Projects Portfolio — Detailed Index
 
+## Table of Contents
+
+- [Projects Overview](#projects-overview)
+- [Technical Summaries](#technical-summaries)
+- [Detailed Summaries](#detailed-summaries)
+  - [drivers-portfolio](#drivers-portfolio)
+  - [jutsu-remote](#jutsu-remote)
+  - [my-portfolio](#my-portfolio)
+  - [SnowflakesDesktop](#snowflakesdesktop)
+- [Contact](#contact)
+
+---
+
+
 [Home](#medium-projects-portfolio---detailed-index) • [Projects Overview](#projects-overview) • [Technical Summaries](#technical-summaries) • [Detailed Summaries](#detailed-summaries) • [Contact](#contact)
 
 
